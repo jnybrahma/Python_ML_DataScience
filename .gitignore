@@ -14,6 +14,7 @@ secrets.toml
 secrets.toml
 /.streamlit
 config.yaml
+lending_club_loan_two.csv
 .streamlit/secrets.toml
 
 # misc
@@ -27,6 +28,7 @@ config.yaml
 .stubs
 .vfscache
 .vfsmeta
+
 
 npm-debug.log*
 yarn-debug.log*
